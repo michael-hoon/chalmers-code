@@ -1,0 +1,51 @@
+city,date,temperature_min,temperature_max,condition,humidity,wind_speed
+Gothenburg,2025-02-22,-3,5,rainy,34,19
+Singapore,2025-02-28,19,28,snowy,66,14
+Berlin,2025-03-01,0,8,snowy,55,2
+London,2025-02-25,-1,9,cloudy,43,22
+Berlin,2025-02-25,-4,6,sunny,54,28
+New York,2025-02-26,30,36,cloudy,86,1
+London,2025-02-22,0,7,rainy,87,7
+Paris,2025-02-23,11,20,cloudy,89,17
+New York,2025-02-26,-5,4,sunny,49,12
+London,2025-03-01,30,38,snowy,42,8
+Singapore,2025-02-28,4,12,cloudy,56,15
+Gothenburg,2025-02-23,24,34,cloudy,73,25
+Paris,2025-02-22,-3,3,snowy,75,13
+Gothenburg,2025-02-27,22,30,rainy,31,28
+Gothenburg,2025-02-25,31,38,cloudy,58,4
+New York,2025-02-22,23,31,snowy,67,29
+Gothenburg,2025-02-27,-3,5,sunny,55,29
+New York,2025-02-23,19,29,rainy,64,15
+Berlin,2025-02-27,-2,7,snowy,54,16
+Singapore,2025-03-01,7,14,sunny,79,5
+New York,2025-02-23,-1,6,cloudy,42,3
+Tokyo,2025-02-22,21,30,sunny,65,9
+New York,2025-02-23,24,33,snowy,48,18
+Paris,2025-02-26,20,29,snowy,72,0
+Berlin,2025-02-24,-8,2,rainy,51,28
+Singapore,2025-02-25,20,27,cloudy,54,10
+Paris,2025-02-22,-1,6,cloudy,42,11
+Singapore,2025-03-01,19,27,cloudy,51,4
+London,2025-02-27,0,8,sunny,73,26
+Tokyo,2025-03-01,-8,-1,rainy,84,24
+New York,2025-02-23,3,12,rainy,87,15
+New York,2025-02-24,27,35,snowy,36,3
+Berlin,2025-02-25,6,13,foggy,48,9
+Berlin,2025-02-22,19,27,rainy,45,9
+Tokyo,2025-02-23,13,20,rainy,58,6
+London,2025-02-28,-4,5,cloudy,81,3
+Tokyo,2025-03-01,-6,1,cloudy,90,21
+New York,2025-03-01,-4,5,cloudy,48,20
+Berlin,2025-02-23,5,11,snowy,89,8
+Singapore,2025-02-28,31,38,cloudy,71,14
+New York,2025-02-25,-1,7,rainy,76,8
+Paris,2025-02-27,17,24,sunny,89,22
+New York,2025-02-27,-5,4,sunny,88,16
+New York,2025-02-23,16,26,rainy,86,11
+London,2025-02-28,-3,5,cloudy,74,30
+Tokyo,2025-02-27,24,34,cloudy,35,1
+London,2025-02-26,17,24,rainy,40,0
+Paris,2025-03-01,11,19,snowy,63,9
+London,2025-02-28,-1,8,snowy,53,10
+Tokyo,2025-02-22,21,28,snowy,64,10

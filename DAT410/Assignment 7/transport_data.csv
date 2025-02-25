@@ -1,0 +1,51 @@
+route,type,departure_time,arrival_time,from_stop,to_stop,city
+Green Line,tram,20:35,20:59,Diane Crescent,Torres Junctions,London
+Yellow Line,bus,22:06,22:37,Brett Point,Stephanie Courts,London
+Blue Line,tram,20:39,20:57,Morales Branch,Sanders Key,Berlin
+Green Line,bus,20:54,21:29,Amanda Drive,Joel Cape,New York
+Blue Line,tram,20:55,21:22,Alicia Pike,Kayla Grove,New York
+Blue Line,bus,20:57,21:15,Bennett Orchard,Luis Trail,London
+Blue Line,bus,21:01,21:45,Jennifer Lights,Wilson Parkways,Paris
+Red Line,tram,21:44,22:19,Jason Throughway,Cooper Island,Tokyo
+Blue Line,tram,21:50,22:21,Michael Corner,David Overpass,Singapore
+Green Line,bus,21:47,22:20,Tasha River,Bryce Heights,Singapore
+Blue Line,tram,21:36,21:56,David Mission,Perkins Circle,Singapore
+Yellow Line,bus,21:52,22:26,Wilkerson Isle,Clark Parkways,Gothenburg
+Green Line,tram,20:57,21:28,Ward Walk,Lawrence Creek,London
+Green Line,bus,22:23,22:48,Coleman Row,Patterson Expressway,Singapore
+Blue Line,bus,20:34,21:01,Tyler Loaf,Murphy Plains,London
+Yellow Line,tram,21:32,22:11,Williams Wells,Jamie Forges,Singapore
+Yellow Line,bus,22:17,22:54,Gallegos Rest,Jones Mountains,Gothenburg
+Yellow Line,bus,21:14,21:36,Fred River,Jennifer Corners,New York
+Yellow Line,bus,22:17,22:34,Jennifer Garden,Samuel Point,London
+Green Line,tram,21:30,21:49,David Hills,Johnson Plain,Berlin
+Blue Line,bus,20:47,21:18,Jones Causeway,Tiffany Viaduct,New York
+Yellow Line,bus,21:40,22:07,Brown Inlet,Sarah Lodge,Berlin
+Blue Line,tram,21:11,21:35,Jessica Cliffs,Mccann Forest,Gothenburg
+Green Line,bus,22:11,22:43,Jones Vista,Vickie Shore,New York
+Blue Line,bus,21:05,21:21,Kristina Orchard,Gonzalez Turnpike,Singapore
+Yellow Line,bus,21:13,21:55,Rodriguez Overpass,Barry Way,Berlin
+Blue Line,tram,21:34,22:06,Clay Inlet,Adams Drives,New York
+Red Line,tram,21:23,21:50,Antonio Rest,Schmitt Ports,Singapore
+Red Line,tram,22:00,22:27,Veronica Mall,Cheyenne Overpass,Gothenburg
+Green Line,tram,20:53,21:27,Davis Via,Mary Square,Tokyo
+Yellow Line,tram,21:26,22:08,Rodriguez Coves,Stevenson Forks,Paris
+Blue Line,bus,21:48,22:23,Samantha Park,Charles Valley,Berlin
+Green Line,bus,20:50,21:20,Rodriguez Cliffs,Smith Bridge,New York
+Yellow Line,tram,21:42,21:57,Megan Circles,Lacey Isle,Tokyo
+Red Line,bus,21:41,21:58,David Roads,Allen Turnpike,Singapore
+Red Line,bus,22:19,22:40,Allen Canyon,Frazier Loaf,New York
+Green Line,bus,21:13,21:34,Olson Shoal,Herring Turnpike,Tokyo
+Yellow Line,bus,22:22,22:59,John Greens,Campbell Center,Tokyo
+Blue Line,bus,20:40,21:03,Lopez Forest,Cortez Stravenue,Singapore
+Green Line,bus,20:33,21:10,Wilkins Corners,Dakota Summit,Paris
+Yellow Line,tram,20:54,21:28,Gregory Circle,Patrick Union,London
+Green Line,tram,22:16,22:44,Danielle Lodge,Scott Creek,Paris
+Yellow Line,bus,21:52,22:33,Williams Junction,Maria Track,Berlin
+Red Line,bus,22:11,22:41,James Summit,James Lock,Paris
+Yellow Line,bus,21:34,22:06,Lisa Forges,Rachel Pines,Tokyo
+Blue Line,bus,22:18,22:38,Anna Cliff,Morgan Radial,Gothenburg
+Yellow Line,bus,21:07,21:35,Armstrong Village,Vasquez Port,New York
+Yellow Line,tram,20:49,21:13,Luna Streets,Stanley Knoll,Tokyo
+Red Line,tram,21:36,22:00,Jeffery Orchard,Allen Glen,Singapore
+Red Line,tram,20:42,20:59,Phillips Place,Farmer Spur,Berlin
