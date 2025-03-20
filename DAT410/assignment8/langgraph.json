@@ -1,0 +1,7 @@
+{
+  "dependencies": ["./assignment8"],
+  "graphs": {
+    "agent": "./graph.py:generate_itinerary"
+  },
+  "env": ".env"
+}

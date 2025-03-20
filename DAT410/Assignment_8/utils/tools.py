@@ -69,6 +69,6 @@ def itinerary_generator(
     md = Markdown(str(itinerary_content), justify="left")
     console.print(md)
 
-    file_fullname = "final_itinerary.md"
+    file_fullname = "final_itinerary_2.md"
     with open(file_fullname, "w") as f:
         f.write(itinerary_content)

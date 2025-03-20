@@ -26,7 +26,7 @@ from prompts import (
     ITINERARY_SYSTEM_PROMPT,
 )
 
-from tools import (
+from DAT410.Assignment_8.utils.tools import (
     web_search,
     get_weather,
     get_current_datetime,
@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
     dry_run = args.dry_run
     content = """
-        I am planning a trip to Gothenburg, Sweden. I am a vegetarian and love to try local cuisines, see historical sites, and enjoy the outdoors. I am looking for a 5-day trip with a budget of $2000. Can you help me plan my trip? I am from Singapore and will be traveling in September.
+        Hi! I would like to seek your help planning for a trip to Gothenburg, Sweden. I am a vegetarian and love to try local cuisines, see historical sites, and enjoy the outdoors. I am looking for a 5-day trip with a budget of roughly $2000. I am from Singapore and will be traveling from 1-5 September 2025 this year.
     """ 
 
     if not dry_run:
